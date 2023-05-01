@@ -1,3 +1,10 @@
 print("hello word")
 
-print("Yummy")
+
+a = 5
+a+= 2
+
+
+print("YOLO: ")
+print(a)
+print("times")
